@@ -1,4 +1,3 @@
-import logo from "./logo.svg";
 import "./App.css";
 import Sun from "./sun.png";
 
@@ -49,7 +48,7 @@ function App() {
       <div className="signature">
         <a
           href="https://github.com/MartinaRak/"
-          target="_blank"
+          rel="noopener noreferrer"
           id="signatureLink"
         >
           Open-source code
