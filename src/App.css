@@ -36,3 +36,134 @@
     transform: rotate(360deg);
   }
 }
+
+body {
+  font-family: "Poppins", sans-serif;
+}
+
+footer {
+  margin-bottom: 300px;
+}
+
+h1 {
+  font-size: 45px;
+  font-weight: bold;
+  margin-left: 140px;
+  margin-top: -50px;
+  padding-bottom: 20px;
+}
+
+h2 {
+  padding: 5px 5px 5px 0px;
+  font-size: 40px;
+  font-weight: bold;
+}
+
+button {
+  background: 00000;
+  border-radius: 5px;
+}
+
+.box {
+  display: block;
+  border: 1px solid grey;
+  border-radius: 30px;
+  margin: 0 auto;
+  margin-top: 60px;
+  margin-bottom: -500px;
+  padding: 250px;
+  background: linear-gradient(
+    -20deg,
+    rgb(233, 222, 250) 0%,
+    rgb(251, 252, 219) 100%
+  );
+  max-width: 550px;
+}
+
+.container {
+  margin-left: -200px;
+  margin-bottom: -50px;
+}
+
+.forecast-day {
+  font-size: 20px;
+}
+
+.forecast-min {
+  opacity: 0.6;
+}
+
+.form-control {
+  max-width: 300px;
+  margin-top: -150px;
+}
+
+.info {
+  font-size: 15px;
+  opacity: 0.8;
+  display: block;
+  margin-right: -100px;
+}
+
+.main {
+  font-size: 25px;
+  display: block;
+  margin-top: -150px;
+}
+
+.row {
+  margin-top: 70px;
+}
+
+.row-forecast {
+  margin-top: 10px;
+  text-align: center;
+}
+
+#condition {
+  font-size: 20px;
+  font-weight: bold;
+  text-transform: capitalize;
+}
+
+#current-button {
+  padding: 10px;
+  border-radius: 5px;
+  border: 1px solid #aaaaaa;
+  margin-left: 400px;
+  margin-top: -150px;
+  font-size: 15px;
+  background-color: #ffffff;
+  max-height: 39px;
+}
+
+#icon {
+  width: 100px;
+  margin-top: 20px;
+}
+
+#in {
+  margin-top: 20px;
+}
+
+#search {
+  display: block;
+}
+
+#search-button {
+  display: block;
+  max-width: 80px;
+  margin-left: 300px;
+  margin-top: -38px;
+}
+
+.signature {
+  display: block;
+  text-align: center;
+  font-size: 12px;
+  margin-top: 500px;
+}
+
+#signatureLink {
+  padding-right: 3px;
+}
