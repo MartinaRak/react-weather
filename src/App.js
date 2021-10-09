@@ -47,7 +47,7 @@ function App() {
       </div>
       <div className="signature">
         <a
-          href="https://github.com/MartinaRak/"
+          href="https://github.com/MartinaRak/react-weather"
           rel="noopener noreferrer"
           id="signatureLink"
         >
